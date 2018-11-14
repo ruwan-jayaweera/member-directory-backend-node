@@ -3,7 +3,7 @@ var bunyan = require('bunyan');
 
 
 var log = new bunyan.createLogger({
-    name: 'Member Directory API',
+    name: 'Member Directory API Logger',
     stream: bunyan.stdout
 })
 

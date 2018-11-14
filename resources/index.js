@@ -1,2 +1,1 @@
-exports.lists = require('./lists');
-exports.items = require('./items');
+exports.profiles = require('./profiles');
